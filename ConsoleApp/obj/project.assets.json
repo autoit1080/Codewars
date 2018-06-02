@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Codewars\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\AutoIt\\Documents\\Codewars\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "d:\\Codewars\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\AutoIt\\Documents\\Codewars\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\AutoIt\\.nuget\\packages\\",
-      "outputPath": "d:\\Codewars\\ConsoleApp\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\AutoIt\\Documents\\Codewars\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
